@@ -1,10 +1,3 @@
---==============================================================
---  MEGA STAFF SYSTEM - Single Script (ServerScriptService)
---==============================================================
-
---======================
---  CONFIG
---======================
 
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1412683240493416500/U-zUIMAHJcZ1bm-vlOBytD3DmmNvxVWQf8E_6J7Ci8fCRtDsb9q1btEsUY376zCl8BEQ" -- <-- put your Discord webhook here
 
